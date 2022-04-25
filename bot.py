@@ -1,6 +1,6 @@
 
 
-TOKEN = "OTY1NjE0NTk1OTYyMjAwMTU0.Yl1wqw.Q_oNiJcxCt8I2bGDfe0iS-a7rzo"
+TOKEN = "REMOVED TOKEN FOR SECURITY"
 
 import discord
 import asyncio
